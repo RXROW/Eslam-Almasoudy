@@ -8,6 +8,15 @@
  * ------------------------------------------------------------
  */{
   "sections": {
+    "candidate_banner": {
+      "type": "candidate-banner",
+      "name": "Candidate Banner",
+      "settings": {
+        "heading": "The Gift Guide",
+        "description": "<p>Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.</p>",
+        "button_text": "Shop Now"
+      }
+    },
     "hero_jVaWmY": {
       "type": "hero",
       "blocks": {
@@ -279,6 +288,7 @@
     }
   },
   "order": [
+    "candidate_banner",
     "hero_jVaWmY",
     "product_list_fa6P9H"
   ]
